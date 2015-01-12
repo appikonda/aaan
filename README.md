@@ -4,7 +4,7 @@
 
 - Has some content
 - Ability to update email address
-- This is a terrifically fantastically mind blowing project!
+- This is a good project.
 
 ## LICENSE
 
