@@ -5,6 +5,7 @@
 - Has some content
 - Ability to update email address
 - This is a terrific project!
+- This is a good project.
 
 ## LICENSE
 
